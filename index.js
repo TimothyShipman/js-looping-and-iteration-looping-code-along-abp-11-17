@@ -6,5 +6,5 @@ function printBadges(index){
   for (let index = 0; i < printBadges.length; index++) {
     console.log(`Welcome ${}! You are employee #1.`)
   }
-  return printBadges
+  return workers
 }
