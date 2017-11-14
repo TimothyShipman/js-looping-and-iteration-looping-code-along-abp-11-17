@@ -1,10 +1,10 @@
 // Code your solutions in this file
-let workers = ['Lisa', 'Kaitlin', 'Jan']
+const workers = ['Lisa', 'Kaitlin', 'Jan']
 
-function printBadges(){
-  for (let i = 0; i < workers.length; i++) {
-    console.log(i)
+function printBadges(index){
+  let workers = index
+  for (let index = 0; i < printBadges.length; index++) {
+    console.log(`Welcome ${}! You are employee #1.`)
   }
-  return workers
+  return printBadges
 }
-
