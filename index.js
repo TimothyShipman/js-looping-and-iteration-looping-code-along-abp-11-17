@@ -1,8 +1,10 @@
 // Code your solutions in this file
-function printBadges['Lisa', 'Kaitlin', 'Jan']{
+let workers = ['Lisa', 'Kaitlin', 'Jan']
 
+function printBadges(){
+  for (let i = 0; i < workers.length; i++) {
+    console.log(i)
+  }
+  return workers
 }
 
-for (let i = 0; i < printBadges.length; i++) {
-  console.log(i)
-}
