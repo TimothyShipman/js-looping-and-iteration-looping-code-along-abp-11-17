@@ -1,5 +1,5 @@
 // Code your solutions in this file
-let workers = ['Lisa', 'Kaitlin', 'Jan']
+var workers = ['Lisa', 'Kaitlin', 'Jan']
 
 function printBadges(){
   for (let index = 0; i < workers.length; index++) {
