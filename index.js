@@ -3,7 +3,7 @@ const workers = ['Lisa', 'Kaitlin', 'Jan']
 
 function printBadges(){
   for (let i = 0; i < workers.length; i++) {
-    console.log(`Welcome ${}! You are employee #1.`)
+    console.log(`Welcome ${workers}! You are employee #1.`)
   }
-  return 
+  return
 }
